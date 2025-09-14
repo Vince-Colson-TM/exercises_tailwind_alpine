@@ -1,22 +1,27 @@
-# Exercises Tailwind CSS - Alpine.js
+# Tailwind CSS v4 + Alpine.js Exercises
 
-## Requirements
-- Set up the work environment for the [Web Development](https://itf-laravel-11.netlify.app/config/) course using Laravel, Livewire, Tailwind, and Alpine.js.
-- Follow the course documentation to install [AnythingLLM](https://itf-laravel-11.netlify.app/config/chat).
-- Install live-server by running `npm install -g live-server`.
+Interactive exercises for learning Tailwind CSS v4 and Alpine.js using Vite.
 
-## PhpStorm plugins
-- Make sure you have the **Tailwind CSS** plugin enabled.
-- Install the [Alpine.js](https://plugins.jetbrains.com/plugin/15251-alpine-js-support) plugin.
+## Setup
 
-## Create a New Project
-- Clone the repository from the `https://github.com/pverhaert/exercises_tailwind_alpine`
-- Open the project in PHPStorm.
-- Run `npm install` to install the necessary dependencies.
-- Start the live server with `npm run serve`.
-- Open a second terminal and execute `npm run watch` to compile Tailwind CSS.
-- Open your browser and navigate to `http://localhost:4455`.
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+2. Start development server:
+   ```bash
+   npm run dev
+   ```
+
+3. Open your browser and navigate to `http://localhost:5173`
+
+## Build
+
+```bash
+npm run build
+```
 
 ## Exercises
 
-Open `src/index.html` for more information on the exercises.
+Open `src/index.html` for detailed exercise instructions.
