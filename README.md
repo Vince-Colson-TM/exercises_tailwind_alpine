@@ -1,4 +1,4 @@
-# Tailwind CSS v4 + Alpine.js Exercises
+# 💻 Tailwind CSS v4 + Alpine.js Exercises
 
 Interactive exercises for learning Tailwind CSS v4 and Alpine.js using Vite.
 
@@ -15,12 +15,6 @@ Interactive exercises for learning Tailwind CSS v4 and Alpine.js using Vite.
    ```
 
 3. Open your browser and navigate to `http://localhost:5173`
-
-## Build
-
-```bash
-npm run build
-```
 
 ## Exercises
 
